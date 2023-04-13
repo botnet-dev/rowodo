@@ -1,0 +1,19 @@
+/* 
+    Rowodo custom styles
+    by : Botnet Group Development - Navilindo
+*/
+
+
+/* feeds */
+.image-icon, .feed-image {
+    font-size: 64px;
+}
+.avatar {
+    height: 32px;
+    width: auto;
+}
+
+.blue-border {
+    border-bottom: 2px rgb(64, 156, 11) solid;
+    color : #ff0000;
+}
